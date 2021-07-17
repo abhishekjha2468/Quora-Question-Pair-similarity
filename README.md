@@ -1,0 +1,1 @@
+Used K NN for finding the similarity between two questions with C osine Similarity as similarity measure and Doc2Vec for featurization
